@@ -1,2 +1,2 @@
 # CitizensMenus
-Github repository of CitizensBooks.
+Github repository of CitizensMenus.
